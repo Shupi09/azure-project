@@ -1,0 +1,9 @@
+{
+	"name": "dfactazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "449b405e-f34f-40b9-82ca-345821e6847c",
+		"tenantId": "82f1729d-18a4-4fb9-9051-25cfed2c847d"
+	}
+}
